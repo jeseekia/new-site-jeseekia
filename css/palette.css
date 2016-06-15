@@ -8,3 +8,32 @@
 .primary-text-color    { color: #212121; }
 .secondary-text-color  { color: #727272; }
 .divider-color         { border-color: #B6B6B6; }
+
+body, h1, h2, h3, h4, h5, h6 {
+  color: #FFFFFF;
+}
+
+p {
+  color: #212121;
+}
+
+i {
+  color: #727272;
+}
+
+main {
+    background: #B6B6B6;
+}
+
+nav {
+  background: #C2185B;
+}
+
+header {
+  background: #E91E63;
+}
+
+footer {
+  margin: 0 !important;
+  background: #009688 !important;
+}
