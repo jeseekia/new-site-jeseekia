@@ -13,11 +13,26 @@
 	font-size: inherit;
 }
 header, main, footer, nav {
-     padding-left: 240px;
-   }
+  padding-left: 240px;
+}
 
-   @media only screen and (max-width : 992px) {
-     header, main, footer, nav {
-       padding-left: 0;
-     }
-   }
+.side-nav {
+  background-color: #C2185B;
+}
+
+.side-nav a {
+  color: #ffffff !important;
+}
+
+#chibi img {
+  max-width: 80px;
+}
+#chibi {
+
+}
+
+@media only screen and (max-width : 992px) {
+  header, main, footer, nav {
+    padding-left: 0;
+  }
+}
