@@ -10,27 +10,27 @@
 .divider-color         { border-color: #B6B6B6; }
 
 body, h1, h2, h3, h4, h5, h6 {
-  color: #FFFFFF;
+  color: #FFFFFF !important;
 }
 
 p {
-  color: #212121;
+  color: #212121 !important;
 }
 
 i {
-  color: #727272;
+  color: #727272 !important;
 }
 
 main {
-    background: #B6B6B6;
+    background: #B6B6B6 !important;
 }
 
 nav {
-  background: #C2185B;
+  background: #C2185B !important;
 }
 
 header {
-  background: #E91E63;
+  background: #E91E63 !important;
 }
 
 footer {
